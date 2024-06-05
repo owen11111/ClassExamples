@@ -1,6 +1,3 @@
-console.log("hello, world!")
-console.log("Test")
-
 const objEx = {
     name: "Owen", 
     age: 26, 
